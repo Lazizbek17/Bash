@@ -23,3 +23,5 @@ set -x
 w
 set +x
 
+set -v
+echo "Salom, dunyo"
